@@ -1,2 +1,2 @@
 # Expanding-Cards
-First of 50 projects in 50 days
+1st of 50 projects in 50 days
